@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:374c92a59428fb5e85c79be68894e18481a9405a58f11c949069b25c4d209e58
-size 352
+# :cheese: LACTOSE INROLLERANT :cheese:
+
+#### In this 2D pixel art side-scroller, the player takes on the role of a cheese wheel that found itself in the middle of a medieval village rolling away from ravenous villagers and avoiding obstacles while trying to beat the previously set high score, inspired by the Cooper's Hill Cheese-Rolling and Wake event.
